@@ -1,0 +1,14 @@
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\bin\Debug\netcoreapp3.1\Ordenamiento.exe
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\bin\Debug\netcoreapp3.1\Ordenamiento.deps.json
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\bin\Debug\netcoreapp3.1\Ordenamiento.runtimeconfig.json
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\bin\Debug\netcoreapp3.1\Ordenamiento.runtimeconfig.dev.json
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\bin\Debug\netcoreapp3.1\Ordenamiento.dll
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\bin\Debug\netcoreapp3.1\Ordenamiento.pdb
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp3.1\Ordenamiento.csproj.AssemblyReference.cache
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp3.1\Ordenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp3.1\Ordenamiento.AssemblyInfoInputs.cache
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp3.1\Ordenamiento.AssemblyInfo.cs
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp3.1\Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp3.1\Ordenamiento.dll
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp3.1\Ordenamiento.pdb
+C:\Users\Desarrollo_Optecom\source\repos\Ordenamiento\Ordenamiento\obj\Debug\netcoreapp3.1\Ordenamiento.genruntimeconfig.cache
