@@ -1,10 +1,5 @@
 ﻿/* 
-Alixon Xiomara Sanchez Perdomo
-Codigo: 213023
-Ingenieria de Sistemas
-Programacion
-Cead-Ibague
-2022-Noviembre
+
  */
 
 
